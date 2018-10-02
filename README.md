@@ -84,7 +84,7 @@ If you want to use CodeCracker in all your projects, install the Visual Studio e
 
 ## SonarQube Plugin
 
-CodeCracker has a SonarQube Plugin that can be downloaded at [Plugins HomePage](http://docs.sonarqube.org/display/PLUG/Other+Plugins).
+CodeCracker has a SonarQube Plugin that can be downloaded [here](http://docs.sonarqube.org/display/PLUG/Other+Plugins).
 
 ## Contributing [![Open Source Helpers](https://www.codetriage.com/code-cracker/code-cracker/badges/users.svg)](https://www.codetriage.com/code-cracker/code-cracker)
 
@@ -139,7 +139,7 @@ An item should only have its work started after the backlog item is ready. We ha
 defined ready as:
 
 1. Have most of the scenarios/test cases defined on the issue on Github
-2. If it has an analyzer then
+2. If it has an analyzer, then
 
         1. The warning level of the analyzer must be in the issue's description (`Hidden`, `Information`, `Warning`, or `Error`)
         2. The diagnostics it provides should already have numeric ids defined formatted as `CC0000`.
